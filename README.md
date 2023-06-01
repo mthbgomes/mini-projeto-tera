@@ -1,0 +1,1 @@
+Este é o mini projeto proposto pelo curso de Desenvolvimento Full Stack da Tera.
